@@ -1,3 +1,7 @@
+<h1>¡Hola a todos! Mi nombre es Daniel </h1>
+
+<img src="https://daccontreras.github.io/assets/img/fondo-daniel-dev.png">
+
 ### ¡Hola a todos! Mi nombre es Daniel [Daniel][Facebook] 👋
 
 ## Soy estudiante y desarrollador Frontend, futuro desarrollador Backend
